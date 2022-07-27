@@ -1,0 +1,9 @@
+name: FirstPlugin
+main: osl.First.Main
+author: Thorvas
+version: 0.1
+commands:
+  heal:
+    description: Heals you
+    aliases: h
+    usage: /heal
